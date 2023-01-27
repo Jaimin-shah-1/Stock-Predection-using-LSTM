@@ -8,14 +8,14 @@ The data used for this project is historical stock prices for a specific company
 Requirements - 
 To run this project, you will need to have Python and the following libraries installed:
 
-TensorFlow
-Keras
-Pandas
-Numpy
-yfinance 
-matplotlib
-seaborn
-scikitlearn
+TensorFlow,
+Keras,
+Pandas,
+Numpy,
+yfinance, 
+matplotlib,
+seaborn,
+scikitlearn.
 
 Input the Stock Ticker name of the company for which you want to predict the stock prices
 Input the date range for which you want to predict the stock prices
